@@ -14,10 +14,10 @@
 # Complex Queries
 
  Queries 1
- #✭
+#✭
  The subquery is correlated. For each row in the  employees table, the subquery checks if there is a corresponding row in the dependents table. 
- #✭✭
+#✭✭
  Query to include the current row in the  employees table. If there is no corresponding row, then the subquery returns no row that causes the outer query to not include the         current row in the  employees table in the result set.
- #✭✭✭
+#✭✭✭
  ![Q1](https://user-images.githubusercontent.com/73166977/103436775-51519200-4c5a-11eb-987b-fbe091ce3cf0.png)
  

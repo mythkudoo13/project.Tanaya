@@ -30,6 +30,9 @@
  Querie 3
 
  this querie is order by and arrange by table
+ SELECT * FROM salary_employee
+ ORDER BY EmployeeID;
+
  
  ![Q3](https://user-images.githubusercontent.com/73166977/103436845-23208200-4c5b-11eb-8585-e3aac3edc3a1.png)
  
